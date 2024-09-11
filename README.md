@@ -11,4 +11,4 @@
 
 **Dive into Deep Learning** (动手学深度学习) by _Mu Li_ (李沐) et al.
 - Language: English / Chinese
-- Link: [English website](https://d2l.ai/), [Chinese website](https://zh.d2l.ai/), [bilibili - 动手学深度学习v2](https://www.bilibili.com/video/BV1if4y147hS), [YouTube - Deep Learning UC Berkeley STAT-157 2019]()
+- Link: [English website](https://d2l.ai/), [Chinese website](https://zh.d2l.ai/), [bilibili - 动手学深度学习v2](https://www.bilibili.com/video/BV1if4y147hS), [YouTube - Deep Learning UC Berkeley STAT-157 2019](https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW).
